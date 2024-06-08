@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Danial
 - 👀 I’m interested in a Front End Developement. 
 - 🌱 I'm currently learning: <br>
-      * Data Structures and Algorithms
+      * Data Structures and Algorithms <br>
       * Tools and technologies from React ecosystem
 - 💞️ I’m looking to collaborate on any project , dont worry i will do it pro bono meaning its free so i gain more experience.
-- 📫 How to reach me ?
+- 📫 How to reach me ? <br>
       * Here is my LinkedIn profile : https://www.linkedin.com/in/danial-nawawi-87762a1b9/
 - ⚡ Fun fact: I love cooking and traveling. 
 
