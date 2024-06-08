@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danial
 - 👀 I’m interested in a Front End Developement. 
 - 🌱 I’m currently learning ReactJs and doing some project to finish up my Porffolio.
-- 💞️ I’m looking to collaborate on any project , dont worry i will do it pro bono meaning its free.
+- 💞️ I’m looking to collaborate on any project , dont worry i will do it pro bono meaning its free so i gain more experience.
 - 📫 How to reach me ? Here is my LinkedIn profile : https://www.linkedin.com/in/danial-nawawi-87762a1b9/
 - ⚡ Fun fact: I love cooking and traveling. 
 
