@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danial
 - 👀 I’m interested in a Front End Developement. 
-- 🌱 I'm currently learning:
+- 🌱 I'm currently learning: <br>
       * Data Structures and Algorithms
       * Tools and technologies from React ecosystem
 - 💞️ I’m looking to collaborate on any project , dont worry i will do it pro bono meaning its free so i gain more experience.
