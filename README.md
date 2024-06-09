@@ -10,7 +10,7 @@
 &nbsp;
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 
 ## Your presence makes me smile. &nbsp; 
@@ -18,9 +18,6 @@
 I am a Front End Developer in the making.
 
 I take great pleasure in applying my meticulous attention to detail and my unwavering passion for creating impactful solutions.
-
-
-
 
 
 
@@ -38,6 +35,8 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 - 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 
+
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 ---
 
 ## 🛠️ My Favourite tools
