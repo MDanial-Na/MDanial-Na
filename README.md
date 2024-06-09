@@ -19,7 +19,7 @@ I am a Front End Developer in the making.
 
 I take great pleasure in applying my meticulous attention to detail and my unwavering passion for creating impactful solutions.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/MDanial-Na/MDanial-Na/blob/main/7d79e51c-1664-41ab-9f00-d30835845088.mp4" width="408" height="318" />
 
 ### Talking about Personal Stuff:
 
