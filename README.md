@@ -35,21 +35,6 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 - 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
 - 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://leetcode.com/aswinb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
-&nbsp;
-<a href="https://medium.com/@aswinbarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
-&nbsp;
 
 ---
 
