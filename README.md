@@ -19,7 +19,7 @@ I am a Front End Developer in the making.
 
 I take great pleasure in applying my meticulous attention to detail and my unwavering passion for creating impactful solutions.
 
-
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### Talking about Personal Stuff:
 
@@ -36,7 +36,6 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 ---
 
 ## 🛠️ My Favourite tools
