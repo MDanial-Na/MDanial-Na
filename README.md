@@ -28,11 +28,10 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm have over 6 years Technical Support 
 - 🌱 I'm currently learning:
-  - ReactJs and 
+  - JavaScript and UIUX
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+- 📬 How to reach me: [mohddanial.nawawi@gmail.com](mailto:mohddanial.nawawi@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1Q9SZ0TpfunSQE4S4sWY2RZsMYhaQkQb6/view?usp=drive_link).
 
 
 ---
