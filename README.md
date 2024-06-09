@@ -13,7 +13,7 @@
 
 ## Your presence makes me smile. &nbsp; 
 
-I am a Front End Programmer in the making.
+I am a Front End Developer in the making.
 
 I take great pleasure in applying my meticulous attention to detail and my unwavering passion for creating impactful solutions.
 
