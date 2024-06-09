@@ -10,6 +10,8 @@
 &nbsp;
 
 
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 ## Your presence makes me smile. &nbsp; 
 
