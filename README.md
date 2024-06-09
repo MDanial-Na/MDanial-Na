@@ -23,7 +23,7 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a Quite guy and good listerner.
+- 👨‍🎓 I'm a Quite guy and Good listerner.
 - 🔭 I’m currently working on ReactJS and perfecting my Portfolio
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm have over 6 years Technical Support 
