@@ -19,7 +19,7 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 
 ### Talking about Personal Stuff:
