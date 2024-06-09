@@ -11,7 +11,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Your presence makes me smile. &nbsp; 
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
