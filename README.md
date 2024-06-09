@@ -15,9 +15,9 @@
 
 I am a Front End Programmer in the making.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+I take great pleasure in applying my meticulous attention to detail and my unwavering passion for creating impactful solutions.
 
-That's why I like to make things that make a difference.
+
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
