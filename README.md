@@ -47,7 +47,7 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 
 <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap.original.svg" alt="bootstrap" width="50" height="50"></a>
+    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo></a>
 </p>
 
 ### 💻 Software and tools
