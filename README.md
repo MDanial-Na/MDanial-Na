@@ -27,6 +27,7 @@
 </picture>
 
 <br>
+
 ## Your presence makes me smile. &nbsp; 
 
 I am a Front End Developer in the making and i like building things.
