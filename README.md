@@ -45,8 +45,8 @@ I take great pleasure in applying my meticulous attention to detail and my unwav
 - 🌱 I'm currently learning:
   - JavaScript and UIUX
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 📬 How to reach me: [mohddanial.nawawi@gmail.com](mailto:mohddanial.nawawi@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Q9SZ0TpfunSQE4S4sWY2RZsMYhaQkQb6/view?usp=drive_link).
+(- 📬 How to reach me: [mohddanial.nawawi@gmail.com](mailto:mohddanial.nawawi@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1Q9SZ0TpfunSQE4S4sWY2RZsMYhaQkQb6/view?usp=drive_link).)
 
 
 ---
