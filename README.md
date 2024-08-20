@@ -1,13 +1,6 @@
 # Welcome to [Danial Nawawi's](/) profile! <a href="/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/danial-nawawi-87762a1b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danial Nawawi" height="30" width="40" /></a>
-&nbsp;
-<a href="https://x.com/Osullivan_00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Danial Nawawi" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/cleancapsule/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleancapsule" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/danialnawawi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danial nawawi" height="30" width="40" /></a>
-&nbsp;
+
 
 <br>
 
